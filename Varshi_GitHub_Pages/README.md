@@ -2,7 +2,7 @@
 
 Static website for Varshi Threading & Wax Bar, North York.
 
-## Edit in IntelliJ IDEA
+## Edit in IntelliJ IDEA.
 
 This is a plain HTML/CSS/JavaScript project. No Maven, Node.js, or build step is required.
 
